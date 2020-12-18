@@ -1,0 +1,9 @@
+xcuserdata/
+**/.DS_Store
+DerivedData/
+build/
+*.lock
+**/Pods
+**/GoogleService-Info.plist
+
+ElsieApp.sketch
