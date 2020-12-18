@@ -5,5 +5,5 @@ build/
 *.lock
 **/Pods
 **/GoogleService-Info.plist
-
-ElsieApp.sketch
+*.xcuserstate
+project.xcworkspace/
