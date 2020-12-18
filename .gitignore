@@ -6,5 +6,5 @@ build/
 **/Pods
 **/GoogleService-Info.plist
 *.xcuserstate
-ElsieApp.xcworkspace/
-ElsieApp.xcodeproj/
+*.xcworkspace/
+*.xcodeproj/
